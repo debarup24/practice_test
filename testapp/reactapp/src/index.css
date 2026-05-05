@@ -4,7 +4,7 @@
   background-color: aquamarine;
   box-sizing: border-box;
   /* content-box → “add padding & border on top of width”
-border-box → “fit everything inside the width” */
+border-box → “fit everything inside the width” - note.md */
 }
 
 .app {

@@ -1,4 +1,4 @@
-1. box-sizing: border-box;
+## 1. box-sizing: border-box;
 
 --> it means : fit everything inside the given width.
 
